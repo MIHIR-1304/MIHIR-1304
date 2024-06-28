@@ -12,7 +12,7 @@ I'm a web developer with a passion for creating interactive and user-friendly we
 - [Linkedin](https://in.linkedin.com/in/mihir-mahato-5145432bb)
 - [Instagram](mihirmahato_13)
 - [Email](mihirmahato1304@gmail.com)
-###⚡ Fun facts/Hobbies:
+  ###⚡ Fun facts/Hobbies:
 - I love hiking and explore nature trails.
 - I play chess.
 
