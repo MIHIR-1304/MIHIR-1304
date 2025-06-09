@@ -17,5 +17,5 @@ I'm a web developer with a passion for creating interactive and user-friendly we
 
 ## 🎨 Fun Facts / Hobbies:
 - I enjoy hiking and exploring nature trails.
-- I play chess and cricket.
+- I play chess, cricket and reading books.
 
