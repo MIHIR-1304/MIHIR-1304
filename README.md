@@ -1,36 +1,130 @@
-# 👋 Hi, I'm Mihir Mahato
+<div align="center">
 
-# 💫 About Me:
-I'm a final-year B.Tech CSE student at Chaibasa Engineering College with a unique blend of skills in programming, robotics, and 3D design. I enjoy building interactive projects and bringing digital concepts to life.<br><br> 🎓 Education:  Final Year B.Tech (Computer Science & Engineering)<br> 🤖 Current Project: Building a Spider Robot 🕷️<br> 🧠 Interests: Competitive programming, 3D Modeling, and Robotics<br> ⚡ Fun Fact: When I'm not coding or rendering in Blender, you can find me playing **Chess**.
+<table width="100%">
+<tr>
+<td width="64%" valign="middle">
+<p><sub>RECRUITER SIGNAL BRIEF · mihir-1304</sub></p>
+<h1>MIHIR MAHATO</h1>
+<h2>Software Development Engineer | Java | Spring Boot | Multi-Tier Distributed Applications | REST APIs</h2>
+<p>Software engineer (B.Tech CSE, 2026) with hands-on professional experience and a strong foundation in Java, data structures &amp; algorithms, OOP, and system design. Designed and built multi-tier applications (Spring Boot REST API, React frontend, MongoDB, Docker) with authentication and role-based access control, and designed a scalable PostgreSQL-backed backend architecture with a technical SRS. Skilled at debugging across services, designing and testing features independently, and collaborating with cross-functional stakeholders in fast-paced environments. Interested in building reliable, scala</p>
+<p><strong>● Building and sharing work in public</strong></p>
+<p><sub>Based in Sini, Seraikela-Kharsawan, Jharkhand, India</sub></p>
+<p><a href="https://github.com/mihir-1304">GitHub</a> &nbsp;·&nbsp; <a href="https://my-portfolio-xi-self-23.vercel.app/">Website</a> &nbsp;·&nbsp; <a href="mailto:mihirmahato1304@gmail.com">Email</a></p>
+</td>
+<td width="36%" valign="middle" align="center">
+<img src="https://avatars.githubusercontent.com/u/174082622?u=f7dfe512da7af0eb50b4d992c7dcbd89c2797dfb&amp;v=4" width="180" alt="MIHIR MAHATO GitHub avatar" />
+</td>
+</tr>
+</table>
+</div>
 
+<h2>What teams can evaluate quickly</h2>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Https://www.instagram.com/blender_buddy_13?igsh=NjBhdHNxYnIzYzEx) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/mihir-mahato-btech) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mihirmahato1304@gmail.ocm) 
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Software Development Engineer | Java | Spring Boot | Multi-Tier Distributed Applications | REST APIs · TaskFlow — Full-Stack Multi-Tier Task Management App · ExamSphere — Scalable Backend Architecture &amp; System Design · NOBoT — AI-Integrated Autonomous Quadruped Robot</p></td>
+<td width="33%" valign="top"><h3>Public proof</h3><p>14 repositories · 0 stars</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>41 contributions · 14 active days</p></td>
+</tr>
+</table>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Rhinoceros](https://img.shields.io/badge/Rhinoceros-801010?style=for-the-badge&logo=rhinoceros&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MIHIR-1304&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=MIHIR-1304&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MIHIR-1304&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p><sub>Software engineer (B.Tech CSE, 2026) with hands-on professional experience and a strong foundation in Java, data structures &amp; algorithms, OOP, and system design. Designed and built multi-tier applications (Spring Boot REST API, React frontend, MongoDB, Docker) with authentication and role-based access control, and designed a scalable PostgreSQL-backed backend architecture with a technical SRS. Skilled at debugging across services, designing and testing features independently, and collaborating with cross-functional stakeholders in fast-paced environments. Interested in building reliable, scala</sub></p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MIHIR-1304&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<h2>Proof at a glance</h2>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MIHIR-1304&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>14</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>0</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>41</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>2</strong><br /><sub>Followers</sub></td>
+</tr>
+</table>
 
----
-[![](https://visitcount.itsvg.in/api?id=MIHIR-1304&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=mihir-1304&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F174082622%3Fu%3Df7dfe512da7af0eb50b4d992c7dcbd89c2797dfb%26v%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=mihir-1304&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F174082622%3Fu%3Df7dfe512da7af0eb50b4d992c7dcbd89c2797dfb%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="MIHIR MAHATO GitHub proof metrics" />
+</picture>
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h2>Selected work</h2>
 
-📫 Connect With Me
-- [LinkedIn](https://www.linkedin.com/in/mihir-mahato-btech)
-- Mobile-6204811877
-- Email: mihirmahato1304@gmail.com 
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=mihir-1304&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F174082622%3Fu%3Df7dfe512da7af0eb50b4d992c7dcbd89c2797dfb%26v%3D4&repos=mihir-1304%2Fnumber-intelligence-engine%2Cmihir-1304%2FJavaDSAJourney%2Cmihir-1304%2Fcarrere_path%2Cmihir-1304%2FWar_Of_Web&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=mihir-1304&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F174082622%3Fu%3Df7dfe512da7af0eb50b4d992c7dcbd89c2797dfb%26v%3D4&repos=mihir-1304%2Fnumber-intelligence-engine%2Cmihir-1304%2FJavaDSAJourney%2Cmihir-1304%2Fcarrere_path%2Cmihir-1304%2FWar_Of_Web&v=recruiter-projects-1&mode=dark" width="100%" alt="MIHIR MAHATO selected projects" />
+</picture>
+</td>
+<td width="42%" valign="top">
+<h3><a href="https://github.com/MIHIR-1304/number-intelligence-engine">number-intelligence-engine</a></h3>
+<p>A menu-driven Java console application for number analysis.</p>
+<p><sub>Java · ⭐ 0 · 🍴 0</sub></p>
+<p><a href="https://github.com/MIHIR-1304/number-intelligence-engine">Read the repository →</a></p>
+</td>
+</tr>
+</table>
 
----
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3><a href="https://github.com/MIHIR-1304/JavaDSAJourney">JavaDSAJourney</a></h3><p>A selected public project.</p><p><sub>Java · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/MIHIR-1304/carrere_path">carrere_path</a></h3><p>A selected public project.</p><p><sub>HTML · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/MIHIR-1304/War_Of_Web">War_Of_Web</a></h3><p>Space Exploration hub website</p><p><sub>JavaScript · ⭐ 0</sub></p></td>
+</tr>
+</table>
 
-> “Code with purpose. Build with passion.”  
-> — Mihir Mahato
+<h2>Technical toolkit</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=mihir-1304&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F174082622%3Fu%3Df7dfe512da7af0eb50b4d992c7dcbd89c2797dfb%26v%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=mihir-1304&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F174082622%3Fu%3Df7dfe512da7af0eb50b4d992c7dcbd89c2797dfb%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="MIHIR MAHATO technology stack" />
+</picture>
+</p>
+
+<table width="100%">
+<tr>
+<td width="20%" align="center"><strong>HTML</strong><br /><sub>40% of public code</sub></td>
+<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>27% of public code</sub></td>
+<td width="20%" align="center"><strong>TypeScript</strong><br /><sub>18% of public code</sub></td>
+<td width="20%" align="center"><strong>CSS</strong><br /><sub>8% of public code</sub></td>
+<td width="20%" align="center"><strong>Java</strong><br /><sub>7% of public code</sub></td>
+</tr>
+</table>
+
+<h2>Consistency signal</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=mihir-1304&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F174082622%3Fu%3Df7dfe512da7af0eb50b4d992c7dcbd89c2797dfb%26v%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=mihir-1304&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F174082622%3Fu%3Df7dfe512da7af0eb50b4d992c7dcbd89c2797dfb%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="MIHIR MAHATO contribution activity" />
+</picture>
+</p>
+
+<hr />
+
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/mihir-1304">GitHub</a><br /><a href="https://my-portfolio-xi-self-23.vercel.app/">Website</a><br /><a href="mailto:mihirmahato1304@gmail.com">Email</a></td>
+</tr>
+</table>
+
+<p align="center"><sub>MIHIR MAHATO · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+
+## Experience
+
+<table>
+<tr><td width="34%" valign="top"><b>Adayrise SARL — Frontend Developer &amp; Graphic Designer</b><br /><sub>March 2026 – Present</sub></td><td width="66%" valign="top"><ul><li>Developed responsive, reusable front-end components in HTML, CSS, and JavaScript from client and design requirements, delivering features independently end to end.</li><li>Debugged layout and cross-browser issues and iterated on implementations based on stakeholder feedback.</li><li>Collaborated remotely with clients and design stakeholders to refine requirements and improve usability and customer experience.</li></ul></td></tr><tr><td width="34%" valign="top"><b>Tata Power — Frontend Developer &amp; 3D Designer</b></td><td width="66%" valign="top"><ul><li>Implemented interactive front-end interfaces for 3D visualization of technical information, focused on usability and clear presentation.</li><li>Analyzed requirements with stakeholders, then debugged and iterated on the interface across development cycles.</li></ul></td></tr>
+</table>
+
+<b>Education</b>
+
+- Bachelor of Technology, Computer Science &amp; Engineering — Chaibasa Engineering College (2022 – 2026)
+
+<b>Projects</b>
+
+- <b>ExamSphere — Scalable Backend Architecture &amp; System Design</b> — Designed a modular-monolith architecture (Auth, Content, Quiz, Search, Progress, Notification, Admin) on a single PostgreSQL system of record for a content-heavy learning platform. Modeled a relational schema of 10+ enti
+- <b>TataNav — 3D Locator and Navigator Interface</b> — Built a 3D navigation interface via Python–Blender integration, automating pathfinding logic to reduce manual navigation lookup time for employee tracking.
